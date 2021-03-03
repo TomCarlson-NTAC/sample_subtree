@@ -1,3 +1,3 @@
 # sample_subtree
 Sample subtree.
-version 3
+version 4
